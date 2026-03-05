@@ -67,7 +67,7 @@ pip uninstall -y charset-normalizer charset_normalizer requests
 
 pip install --no-cache-dir --force-reinstall \
 "charset-normalizer==2.0.12" \
-"requests==2.27.1"
+"requests>=2.31"
 ```
 Verify:
 ```bash
