@@ -55,6 +55,7 @@ pip install easydict
 conda install -c conda-forge pytorch torchvision
 conda install -c conda-forge h5py
 pip install requests
+pip install robomimic
 ```
 Verify:
 ```bash
