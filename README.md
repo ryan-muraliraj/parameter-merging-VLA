@@ -89,7 +89,7 @@ Ensure kernel:
 Python (py3813)
 ```
 ## Note: LIBERO demonstration datasets must be downloaded separately. 
-## Use my env
+## Use my env (broken)
 ```bash
 conda env create -f environment.yml
 ```
